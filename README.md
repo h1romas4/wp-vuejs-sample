@@ -2,7 +2,7 @@
 
 ![スクリーンショット](./doc/screenshot.png)
 
-[動作](https://raw.githubusercontent.com/h1romas4/wp-vuejs-sample/master/doc/osc2017do-pre.mp4)
+![動作ムービー](https://raw.githubusercontent.com/h1romas4/wp-vuejs-sample/master/doc/osc2017do-pre.mp4)
 
 > [OSC 北海道 2017 baserCMS & WordPress セミナー・ブース出展](http://another.maple4ever.net/archives/2296/)
 >
