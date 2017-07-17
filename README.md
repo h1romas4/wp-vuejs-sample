@@ -2,6 +2,8 @@
 
 ![スクリーンショット](./doc/screenshot.png)
 
+[動作](https://raw.githubusercontent.com/h1romas4/wp-vuejs-sample/master/doc/osc2017do-pre.mp4)
+
 > [OSC 北海道 2017 baserCMS & WordPress セミナー・ブース出展](http://another.maple4ever.net/archives/2296/)
 >
 > 7/13, 14に開催されましたオープンソースカンファレンス 2017 北海道にて、baserCMS & WordPress セミナー・ブース出展を行ってきました。
@@ -16,3 +18,4 @@
 Vue.js を使ったウェブ・フロントエンド開発手法をサンプルサイトを元に具体的なソースコードとともに解説します。
 WordPress をデーターベースとして利用したフロントエンド開発や、近年導入が進んでいるリアクティブ系の
 JavaScript ライブラリの適用例を見たい方にお勧めです。
+
