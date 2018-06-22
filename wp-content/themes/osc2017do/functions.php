@@ -51,7 +51,9 @@ add_action('rest_api_init', function() {
                 $item['permalink'] = get_the_permalink();
                 $item['thumbnail'] =
                     get_the_post_thumbnail_url(get_the_ID(), 'item');
-                $item['price'] = SCF::get('price');
+                // for Smart Custom Field
+                // $item['price'] = SCF::get('price');
+                $item['price'] = 100;
                 $items[] = $item;
             }
             $result['items'] = $items;
